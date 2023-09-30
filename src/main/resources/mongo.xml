@@ -1,0 +1,8 @@
+<configuration>
+    <url>mongodb://localhost:</url>
+    <port>27017</port>
+    <database>loadbalancer</database>
+    <collection>session_log</collection>
+    <user>lb_writer</user>
+    <secret>AdminRoot1337</secret>
+</configuration>

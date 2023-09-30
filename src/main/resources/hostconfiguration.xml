@@ -1,0 +1,8 @@
+<servers>
+    <ServerXO>
+        <id>550e8400-e29b-41d4-a716-446655440000</id>
+        <name>tcp_server_north</name>
+        <url>127.0.0.1</url>
+        <port>8001</port>
+    </ServerXO>
+</servers>
